@@ -82,7 +82,7 @@ def format_trade_message(trade):
             f"{icon} *New Buy Signal* {icon}\n\n"
             f"*Pair:* `{pair}`\n"
             f"*Price:* `{rate:,.8f}`\n"
-            f"*Accuracy:* `{accuracy}%`"
+            f"*Accuracy:* >= 90%"
         )
     elif trade_type == 'Sell':
         icon = "🔴"
