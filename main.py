@@ -9,6 +9,12 @@ ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN")
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
+# A list of trade triggers that are allowed to be sent as signals.
+# Trades triggered by other means (e.g., "manual") will be ignored.
+ALLOWED_STRATEGY_TRIGGERS = [
+    "strategy",
+]
+
 API_BASE_URL = "https://api.cryptohopper.com/v1"
 LAST_TRADE_ID_FILE = "last_trade_id.txt"
 
@@ -84,17 +90,17 @@ def format_trade_message(trade):
             f"*Price:* `{rate:,.8f}`\n"
             f"*Accuracy:* >= 90%"
         )
-    elif trade_type == 'Sell':
-        icon = "🔴"
-        profit_percent = float(trade.get('result', 0))
-        profit_sign = "+" if profit_percent >= 0 else ""
+    # elif trade_type == 'Sell':
+    #     icon = "🔴"
+    #     profit_percent = float(trade.get('result', 0))
+    #     profit_sign = "+" if profit_percent >= 0 else ""
         
-        message = (
-            f"{icon} *New Sell Signal* {icon}\n\n"
-            f"*Pair:* `{pair}`\n"
-            f"*Price:* `{rate:,.8f}`\n"
-            f"*Result:* `{profit_sign}{profit_percent:.2f}%`"
-        )
+    #     message = (
+    #         f"{icon} *New Sell Signal* {icon}\n\n"
+    #         f"*Pair:* `{pair}`\n"
+    #         f"*Price:* `{rate:,.8f}`\n"
+    #         f"*Result:* `{profit_sign}{profit_percent:.2f}%`"
+    #     )
     else:
         # Fallback for any other trade types
         icon = "⚪️"
@@ -154,11 +160,18 @@ if __name__ == "__main__":
             print(f"\nFound {len(new_trades)} new trade(s) to process.")
             
             for trade in new_trades:
-                print(f"  -> Processing Trade ID: {trade.get('id')}")
-                formatted_message = format_trade_message(trade)
-                send_telegram_message(formatted_message)
+                trigger = trade.get('trigger_strategy')
+                trade_type = trade.get('type')
+                print(f"  -> Processing Trade ID: {trade.get('id')}, Trigger: {trigger}")
+                
+                if trigger in ALLOWED_STRATEGY_TRIGGERS and trade_type == 'Buy':
+                    formatted_message = format_trade_message(trade)
+                    send_telegram_message(formatted_message)
+                else:
+                    print(f"  --> Skipping trade: Trigger '{trigger}' is not in the allowed list.")
 
             # After processing, save the ID of the newest trade for the next run.
+            # We still save the ID even if we skipped all trades, to prevent reprocessing them.
             newest_trade_id = recent_trades[0]['id']
             save_last_trade_id(newest_trade_id)
             print(f"\nSaved new latest trade ID: {newest_trade_id}")

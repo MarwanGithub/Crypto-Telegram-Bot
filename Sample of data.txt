@@ -1,0 +1,431 @@
+--- Full Trade Data ---
+{'id': '262084898', 'exchange': 'binance', 'currency': 'SEI', 'pair': 'SEIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '2001405621', 'date': '2025-07-08 01:08:06', 'amount': '495', 'rate': '0.2516', 'total': '124.54', 'fee': '0.124542', 'result': '', 'trigger_strategy': 'dca', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262112113', 'exchange': 'binance', 'currency': 'SEI', 'pair': 'SEIUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '2002419969', 'date': '2025-07-08 22:04:10', 'amount': '824.1', 'rate': '0.2596', 'total': '213.94', 'fee': '0.21393636', 'result': '0.59021190591328', 'trigger_strategy': 'manually-sold', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262122430', 'exchange': 'binance', 'currency': 'NEAR', 'pair': 'NEARUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4226476556', 'date': '2025-07-09 06:51:58', 'amount': '6.6', 'rate': '2.254', 'total': '14.88', 'fee': '0.0148764', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262140949', 'exchange': 'binance', 'currency': 'VET', 'pair': 'VETUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '3388940069', 'date': '2025-07-09 16:21:49', 'amount': '1733.9', 'rate': '0.0218', 'total': '37.8', 'fee': '0.03779902', 'result': '2.9272283001528', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262146880', 'exchange': 'binance', 'currency': 'TAO', 'pair': 'TAOUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '1565935683', 'date': '2025-07-09 19:33:10', 'amount': '0.1118', 'rate': '340.7', 'total': '38.09', 'fee': '0.03809026', 'result': '4.1768590998043', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262148318', 'exchange': 'binance', 'currency': 'NEAR', 'pair': 'NEARUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4227526035', 'date': '2025-07-09 19:47:31', 'amount': '6.5', 'rate': '2.32', 'total': '15.08', 'fee': '0.01508', 'result': '2.9281277728483', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262122430', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262148324', 'exchange': 'binance', 'currency': 'APT', 'pair': 'APTUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '3563444563', 'date': '2025-07-09 19:47:50', 'amount': '19.73', 'rate': '4.619', 'total': '91.13', 'fee': '0.09113287', 'result': '3.1607064688173', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262188406', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4073589344', 'date': '2025-07-10 16:43:15', 'amount': '15.5', 'rate': '8.225', 'total': '127.49', 'fee': '0.1274875', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262194446', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '12839712741', 'date': '2025-07-10 18:07:56', 'amount': '0.274', 'rate': '160.74', 'total': '44.04', 'fee': '0.04404276', 'result': '', 'trigger_strategy': 'manual-buy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262196674', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '12840048761', 'date': '2025-07-10 18:29:55', 'amount': '0.372', 'rate': '159.5200000000000102', 'total': '59.34', 'fee': '0.05934144', 'result': '0.58801622162683', 'trigger_strategy': 'manually-sold', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262205689', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4074690311', 'date': '2025-07-10 21:25:08', 'amount': '5.22', 'rate': '8.44', 'total': '44.06', 'fee': '0.0440568', 'result': '', 'trigger_strategy': 'manual-buy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262208117', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4074891694', 'date': '2025-07-10 21:45:17', 'amount': '5.22', 'rate': '8.5389999999999997', 'total': '44.57', 'fee': '0.04457358', 'result': '1.1729857819905', 'trigger_strategy': 'manually-sold', 'buy_id': '262205689', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262210907', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4075103332', 'date': '2025-07-10 22:13:26', 'amount': '15.48', 'rate': '8.532', 'total': '132.08', 'fee': '0.13207536', 'result': '3.7325227963526', 'trigger_strategy': 'Cryptohopper app', 'buy_id': '262188406', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262219002', 'exchange': 'binance', 'currency': 'BTC', 'pair': 'BTCUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '45834835334', 'date': '2025-07-11 00:29:29', 'amount': '0.0001', 'rate': '115447.2599999999947613', 'total': '11.54', 'fee': '0.01154473', 'result': '5.7581818651514', 'trigger_strategy': 'manually-sold', 'buy_id': '261908159', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262272725', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '12858902073', 'date': '2025-07-11 18:45:05', 'amount': '0.267', 'rate': '164.3000000000000114', 'total': '43.87', 'fee': '0.0438681', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262285550', 'exchange': 'binance', 'currency': 'SEI', 'pair': 'SEIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '2013292250', 'date': '2025-07-12 00:11:50', 'amount': '132.4', 'rate': '0.3323', 'total': '44', 'fee': '0.04399652', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262287311', 'exchange': 'binance', 'currency': 'ETH', 'pair': 'ETHUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '32375121468', 'date': '2025-07-12 00:59:27', 'amount': '0.0148', 'rate': '2951.37', 'total': '43.68', 'fee': '0.043680276', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262287889', 'exchange': 'binance', 'currency': 'AVAX', 'pair': 'AVAXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4745027077', 'date': '2025-07-12 01:09:40', 'amount': '2.16', 'rate': '20.78', 'total': '44.88', 'fee': '0.0448848', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262287969', 'exchange': 'binance', 'currency': 'INJ', 'pair': 'INJUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '2549605155', 'date': '2025-07-12 01:11:39', 'amount': '3.52', 'rate': '12.4700000000000006', 'total': '43.89', 'fee': '0.0438944', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262288723', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4083395271', 'date': '2025-07-12 01:20:07', 'amount': '4.99', 'rate': '8.811', 'total': '43.97', 'fee': '0.04396689', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262309958', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4085921283', 'date': '2025-07-12 13:32:10', 'amount': '7.46', 'rate': '8.3079999999999998', 'total': '61.98', 'fee': '0.06197768', 'result': '', 'trigger_strategy': 'dca', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262331488', 'exchange': 'binance', 'currency': 'SEI', 'pair': 'SEIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '2017089488', 'date': '2025-07-13 02:39:37', 'amount': '81.7', 'rate': '0.3183', 'total': '26.01', 'fee': '0.02600511', 'result': '', 'trigger_strategy': 'manual-buy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262331532', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '12873251372', 'date': '2025-07-13 02:42:39', 'amount': '0.167', 'rate': '161.0600000000000023', 'total': '26.9', 'fee': '0.02689702', 'result': '', 'trigger_strategy': 'manual-buy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262331545', 'exchange': 'binance', 'currency': 'ETH', 'pair': 'ETHUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '32402632466', 'date': '2025-07-13 02:43:41', 'amount': '0.0089', 'rate': '2947.3200000000001637', 'total': '26.23', 'fee': '0.026231148', 'result': '', 'trigger_strategy': 'manual-buy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262331588', 'exchange': 'binance', 'currency': 'INJ', 'pair': 'INJUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '2551896677', 'date': '2025-07-13 02:45:17', 'amount': '2.1', 'rate': '12.38', 'total': '26', 'fee': '0.025998', 'result': '', 'trigger_strategy': 'manual-buy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262331620', 'exchange': 'binance', 'currency': 'AVAX', 'pair': 'AVAXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4748025737', 'date': '2025-07-13 02:46:49', 'amount': '1.18', 'rate': '21.120000000000001', 'total': '24.92', 'fee': '0.0249216', 'result': '', 'trigger_strategy': 'manual-buy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262384292', 'exchange': 'binance', 'currency': 'SEI', 'pair': 'SEIUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '2020716909', 'date': '2025-07-14 02:33:34', 'amount': '213.9', 'rate': '0.3438', 'total': '73.54', 'fee': '0.07353882', 'result': '5.1512371926196', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262386446', 'exchange': 'binance', 'currency': 'APT', 'pair': 'APTUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '3577081088', 'date': '2025-07-14 03:10:25', 'amount': '6.89', 'rate': '5.1349999999999998', 'total': '35.38', 'fee': '0.03538015', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262389732', 'exchange': 'binance', 'currency': 'AVAX', 'pair': 'AVAXUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4751417772', 'date': '2025-07-14 03:48:22', 'amount': '3.33', 'rate': '21.89', 'total': '72.89', 'fee': '0.0728937', 'result': '4.7362419491622', 'trigger_strategy': 'trailing-stop-loss. Config pool: AVAX', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262393055', 'exchange': 'binance', 'currency': 'LINK', 'pair': 'LINKUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '6914908863', 'date': '2025-07-14 04:25:19', 'amount': '2.17', 'rate': '16.23', 'total': '35.22', 'fee': '0.0352191', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262393181', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4093369139', 'date': '2025-07-14 04:26:48', 'amount': '12.44', 'rate': '9.248', 'total': '115.05', 'fee': '0.11504512', 'result': '8.6772073358738', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262393700', 'exchange': 'binance', 'currency': 'NEAR', 'pair': 'NEARUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4239278882', 'date': '2025-07-14 04:33:59', 'amount': '13.1', 'rate': '2.677', 'total': '35.07', 'fee': '0.0350687', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262398366', 'exchange': 'binance', 'currency': 'INJ', 'pair': 'INJUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '2555052495', 'date': '2025-07-14 05:39:19', 'amount': '5.61', 'rate': '12.9499999999999993', 'total': '72.65', 'fee': '0.0726495', 'result': '4.1300627822195', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262400705', 'exchange': 'binance', 'currency': 'VET', 'pair': 'VETUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '3396420710', 'date': '2025-07-14 05:54:05', 'amount': '1404.2', 'rate': '0.02521', 'total': '35.4', 'fee': '0.035399882', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262424447', 'exchange': 'binance', 'currency': 'ETH', 'pair': 'ETHUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '32464845977', 'date': '2025-07-14 15:50:29', 'amount': '0.0236', 'rate': '3011.7899999999999636', 'total': '71.08', 'fee': '0.07107824', 'result': '2.0997984535403', 'trigger_strategy': 'manually-sold', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262425014', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4097488922', 'date': '2025-07-14 15:57:10', 'amount': '3.81', 'rate': '9.275', 'total': '35.34', 'fee': '0.03533775', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262425498', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '12893720772', 'date': '2025-07-14 16:07:47', 'amount': '0.434', 'rate': '163.75', 'total': '71.07', 'fee': '0.0710675', 'result': '0.42730090756575', 'trigger_strategy': 'manually-sold', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262426410', 'exchange': 'binance', 'currency': 'TAO', 'pair': 'TAOUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1580758784', 'date': '2025-07-14 16:26:04', 'amount': '0.0863', 'rate': '409.7', 'total': '35.36', 'fee': '0.03535711', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262429050', 'exchange': 'binance', 'currency': 'NEAR', 'pair': 'NEARUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4241530949', 'date': '2025-07-14 17:48:35', 'amount': '13.5', 'rate': '2.609', 'total': '35.22', 'fee': '0.0352215', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262434681', 'exchange': 'binance', 'currency': 'VET', 'pair': 'VETUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '3397726509', 'date': '2025-07-14 21:25:32', 'amount': '1470.9', 'rate': '0.02432', 'total': '35.77', 'fee': '0.035772288', 'result': '', 'trigger_strategy': 'manual-buy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262434693', 'exchange': 'binance', 'currency': 'APT', 'pair': 'APTUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '3580314794', 'date': '2025-07-14 21:26:38', 'amount': '7.18', 'rate': '4.9800000000000004', 'total': '35.76', 'fee': '0.0357564', 'result': '', 'trigger_strategy': 'manual-buy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262434710', 'exchange': 'binance', 'currency': 'LINK', 'pair': 'LINKUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '6917676630', 'date': '2025-07-14 21:27:37', 'amount': '2.25', 'rate': '15.85', 'total': '35.66', 'fee': '0.0356625', 'result': '', 'trigger_strategy': 'manual-buy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262459173', 'exchange': 'binance', 'currency': 'TAO', 'pair': 'TAOUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '1583642470', 'date': '2025-07-15 12:45:50', 'amount': '0.0863', 'rate': '419.5', 'total': '36.2', 'fee': '0.03620285', 'result': '2.3919941420552', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262426410', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262459431', 'exchange': 'binance', 'currency': 'TAO', 'pair': 'TAOUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1583680394', 'date': '2025-07-15 12:53:05', 'amount': '0.083', 'rate': '426.5', 'total': '35.4', 'fee': '0.0353995', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262534293', 'exchange': 'binance', 'currency': 'LINK', 'pair': 'LINKUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '6925239140', 'date': '2025-07-16 19:00:01', 'amount': '4.41', 'rate': '16.8099999999999987', 'total': '74.13', 'fee': '0.0741321', 'result': '4.8229723933997', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262535873', 'exchange': 'binance', 'currency': 'NEAR', 'pair': 'NEARUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4248640734', 'date': '2025-07-16 19:32:49', 'amount': '26.6', 'rate': '2.7490000000000001', 'total': '73.12', 'fee': '0.0731234', 'result': '4.0307183647223', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262539898', 'exchange': 'binance', 'currency': 'APT', 'pair': 'APTUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '3588254515', 'date': '2025-07-16 20:46:47', 'amount': '14.05', 'rate': '5.3029999999999999', 'total': '74.51', 'fee': '0.07450715', 'result': '4.8873047680834', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262540435', 'exchange': 'binance', 'currency': 'VET', 'pair': 'VETUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '3401475088', 'date': '2025-07-16 20:53:22', 'amount': '2872.2', 'rate': '0.02562', 'total': '73.59', 'fee': '0.07358576', 'result': '3.4955966636958', 'trigger_strategy': 'manually-sold', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262540444', 'exchange': 'binance', 'currency': 'TAO', 'pair': 'TAOUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '1588605655', 'date': '2025-07-16 20:53:54', 'amount': '0.0829', 'rate': '439.7', 'total': '36.45', 'fee': '0.03645113', 'result': '3.094958968347', 'trigger_strategy': 'manually-sold', 'buy_id': '262459431', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262541428', 'exchange': 'binance', 'currency': 'LINK', 'pair': 'LINKUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '6925605009', 'date': '2025-07-16 21:14:06', 'amount': '1.5', 'rate': '16.92', 'total': '25.38', 'fee': '0.02538', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262541591', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '12929700271', 'date': '2025-07-16 21:16:06', 'amount': '0.145', 'rate': '175.2', 'total': '25.4', 'fee': '0.025404', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262544351', 'exchange': 'binance', 'currency': 'VET', 'pair': 'VETUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '3401546114', 'date': '2025-07-16 22:00:39', 'amount': '976.7', 'rate': '0.02611', 'total': '25.5', 'fee': '0.025501637', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262558383', 'exchange': 'binance', 'currency': 'VET', 'pair': 'VETUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '3402184079', 'date': '2025-07-17 04:52:02', 'amount': '594.2', 'rate': '0.02526', 'total': '15.01', 'fee': '0.015009492', 'result': '', 'trigger_strategy': 'manual-buy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262559390', 'exchange': 'binance', 'currency': 'TAO', 'pair': 'TAOUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1589867124', 'date': '2025-07-17 05:30:00', 'amount': '0.0951', 'rate': '425.4', 'total': '40.46', 'fee': '0.04045554', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262559391', 'exchange': 'binance', 'currency': 'INJ', 'pair': 'INJUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '2563785286', 'date': '2025-07-17 05:30:02', 'amount': '3.02', 'rate': '13.35', 'total': '40.32', 'fee': '0.040317', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262559524', 'exchange': 'binance', 'currency': 'NEAR', 'pair': 'NEARUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4250171274', 'date': '2025-07-17 05:31:43', 'amount': '14.8', 'rate': '2.7120000000000002', 'total': '40.14', 'fee': '0.0401376', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262560249', 'exchange': 'binance', 'currency': 'SEI', 'pair': 'SEIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '2039223350', 'date': '2025-07-17 05:42:08', 'amount': '115.9', 'rate': '0.3491', 'total': '40.46', 'fee': '0.04046069', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262560621', 'exchange': 'binance', 'currency': 'PEPE', 'pair': 'PEPEUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4683529757', 'date': '2025-07-17 05:49:09', 'amount': '3013392', 'rate': '0.00001344', 'total': '40.5', 'fee': '0.040500096', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262580925', 'exchange': 'binance', 'currency': 'INJ', 'pair': 'INJUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '2564762095', 'date': '2025-07-17 13:17:08', 'amount': '3.02', 'rate': '14', 'total': '42.28', 'fee': '0.04228', 'result': '4.8689138576779', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262559391', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262581033', 'exchange': 'binance', 'currency': 'NEAR', 'pair': 'NEARUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4251511796', 'date': '2025-07-17 13:19:00', 'amount': '14.8', 'rate': '2.8260000000000001', 'total': '41.82', 'fee': '0.0418248', 'result': '4.2035398230089', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262559524', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262591400', 'exchange': 'binance', 'currency': 'BONK', 'pair': 'BONKUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4363271427', 'date': '2025-07-17 18:05:17', 'amount': '1131600', 'rate': '0.00003574', 'total': '40.44', 'fee': '0.040443384', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262610795', 'exchange': 'binance', 'currency': 'LINK', 'pair': 'LINKUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '6931247530', 'date': '2025-07-18 00:10:46', 'amount': '1.5', 'rate': '17.94', 'total': '26.91', 'fee': '0.02691', 'result': '6.0283687943262', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262541428', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262612718', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1663496324', 'date': '2025-07-18 00:45:10', 'amount': '370', 'rate': '0.1092', 'total': '40.4', 'fee': '0.040404', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262615246', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4121165221', 'date': '2025-07-18 01:11:26', 'amount': '4.15', 'rate': '9.732', 'total': '40.39', 'fee': '0.0403878', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262617542', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4121580500', 'date': '2025-07-18 01:23:54', 'amount': '7.95', 'rate': '9.7780000000000005', 'total': '77.74', 'fee': '0.0777351', 'result': '2.7828520228642', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262618192', 'exchange': 'binance', 'currency': 'VET', 'pair': 'VETUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '3404011736', 'date': '2025-07-18 01:26:29', 'amount': '1569.4', 'rate': '0.02702', 'total': '42.41', 'fee': '0.04240519', 'result': '4.7754507162711', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262622440', 'exchange': 'binance', 'currency': 'SEI', 'pair': 'SEIUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '2043401963', 'date': '2025-07-18 02:18:43', 'amount': '115.8', 'rate': '0.3667', 'total': '42.46', 'fee': '0.04246386', 'result': '5.0415353766829', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262560249', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262636910', 'exchange': 'binance', 'currency': 'PEPE', 'pair': 'PEPEUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4691531807', 'date': '2025-07-18 06:04:45', 'amount': '3010378', 'rate': '0.00001415', 'total': '42.6', 'fee': '0.04259685', 'result': '5.2827380952381', 'trigger_strategy': 'trailing-stop-loss. Config pool: bonk', 'buy_id': '262560621', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262637203', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '12960578564', 'date': '2025-07-18 06:07:00', 'amount': '0.145', 'rate': '182.63', 'total': '26.48', 'fee': '0.02648135', 'result': '4.2408675799087', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262541591', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262640301', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1664282409', 'date': '2025-07-18 06:47:56', 'amount': '358', 'rate': '0.1127', 'total': '40.35', 'fee': '0.0403466', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262642379', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4125454422', 'date': '2025-07-18 07:17:40', 'amount': '3.78', 'rate': '10.67', 'total': '40.33', 'fee': '0.0403326', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262654804', 'exchange': 'binance', 'currency': 'XLM', 'pair': 'XLMUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '3115931040', 'date': '2025-07-18 12:24:09', 'amount': '83', 'rate': '0.4808', 'total': '39.91', 'fee': '0.0399064', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262656490', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1664679041', 'date': '2025-07-18 13:00:20', 'amount': '368', 'rate': '0.1096', 'total': '40.33', 'fee': '0.0403328', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262657394', 'exchange': 'binance', 'currency': 'TAO', 'pair': 'TAOUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1594649586', 'date': '2025-07-18 13:10:14', 'amount': '0.0966', 'rate': '418.8999999999999773', 'total': '40.47', 'fee': '0.04046574', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262663022', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4130497384', 'date': '2025-07-18 14:44:04', 'amount': '3.9', 'rate': '10.3369999999999997', 'total': '40.31', 'fee': '0.0403143', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262669183', 'exchange': 'binance', 'currency': 'BONK', 'pair': 'BONKUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4379711712', 'date': '2025-07-18 17:17:04', 'amount': '1203565', 'rate': '0.00003365', 'total': '40.5', 'fee': '0.0405001305', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262671460', 'exchange': 'binance', 'currency': 'LINK', 'pair': 'LINKUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '6935099385', 'date': '2025-07-18 18:29:48', 'amount': '2.25', 'rate': '17.98', 'total': '40.45', 'fee': '0.040455', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262671527', 'exchange': 'binance', 'currency': 'INJ', 'pair': 'INJUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '2568846751', 'date': '2025-07-18 18:32:06', 'amount': '2.91', 'rate': '13.87', 'total': '40.36', 'fee': '0.0403617', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262677767', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4133549551', 'date': '2025-07-18 21:12:25', 'amount': '3.95', 'rate': '10.2240000000000002', 'total': '40.38', 'fee': '0.0403848', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262678309', 'exchange': 'binance', 'currency': 'VET', 'pair': 'VETUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '3406169142', 'date': '2025-07-18 21:24:57', 'amount': '1480.2', 'rate': '0.02733', 'total': '40.45', 'fee': '0.040453866', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262680090', 'exchange': 'binance', 'currency': 'SEI', 'pair': 'SEIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '2048626135', 'date': '2025-07-18 22:20:10', 'amount': '116.3', 'rate': '0.3479', 'total': '40.46', 'fee': '0.04046077', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262681691', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '12975060594', 'date': '2025-07-18 23:17:06', 'amount': '0.229', 'rate': '176.35', 'total': '40.38', 'fee': '0.04038415', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262681692', 'exchange': 'binance', 'currency': 'PEPE', 'pair': 'PEPEUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4696523683', 'date': '2025-07-18 23:17:08', 'amount': '3139533', 'rate': '0.0000129', 'total': '40.5', 'fee': '0.040499937', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262681738', 'exchange': 'binance', 'currency': 'AVAX', 'pair': 'AVAXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4770060778', 'date': '2025-07-18 23:19:00', 'amount': '1.72', 'rate': '23.33', 'total': '40.13', 'fee': '0.0401276', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262713195', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1666515834', 'date': '2025-07-19 18:06:09', 'amount': '1403', 'rate': '0.105', 'total': '147.31', 'fee': '0.147315', 'result': '', 'trigger_strategy': 'dca', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262719159', 'exchange': 'binance', 'currency': 'AVAX', 'pair': 'AVAXUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4772729381', 'date': '2025-07-19 20:03:07', 'amount': '1.72', 'rate': '24.87', 'total': '42.78', 'fee': '0.0427764', 'result': '6.600942991856', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262681738', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262719729', 'exchange': 'binance', 'currency': 'LTC', 'pair': 'LTCUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '6190102438', 'date': '2025-07-19 20:11:06', 'amount': '0.355', 'rate': '113.74', 'total': '40.38', 'fee': '0.0403777', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262731464', 'exchange': 'binance', 'currency': 'PEPE', 'pair': 'PEPEUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4701104450', 'date': '2025-07-20 01:36:24', 'amount': '3136394', 'rate': '0.00001356', 'total': '42.53', 'fee': '0.0425295', 'result': '5.1162790697674', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262681692', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262733953', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '1667111777', 'date': '2025-07-20 03:03:55', 'amount': '2496', 'rate': '0.1144', 'total': '285.54', 'fee': '0.2855424', 'result': '6.5153890634222', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262737799', 'exchange': 'binance', 'currency': 'LTC', 'pair': 'LTCUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '6193260542', 'date': '2025-07-20 04:22:52', 'amount': '0.198', 'rate': '113.3400000000000034', 'total': '22.44', 'fee': '0.02244132', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262740714', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1667908095', 'date': '2025-07-20 05:50:10', 'amount': '175', 'rate': '0.1281', 'total': '22.42', 'fee': '0.0224175', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262744863', 'exchange': 'binance', 'currency': 'AVAX', 'pair': 'AVAXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4774553017', 'date': '2025-07-20 07:20:16', 'amount': '0.89', 'rate': '24.8', 'total': '22.07', 'fee': '0.022072', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262747599', 'exchange': 'binance', 'currency': 'LTC', 'pair': 'LTCUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '6195396989', 'date': '2025-07-20 08:26:06', 'amount': '0.355', 'rate': '118.39', 'total': '42.03', 'fee': '0.04202845', 'result': '4.0882714963953', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262719729', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262747692', 'exchange': 'binance', 'currency': 'LTC', 'pair': 'LTCUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '6195432491', 'date': '2025-07-20 08:28:43', 'amount': '0.197', 'rate': '118.3799999999999955', 'total': '23.32', 'fee': '0.02332086', 'result': '4.4467972472207', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262737799', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262747715', 'exchange': 'binance', 'currency': 'XLM', 'pair': 'XLMUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '3125909577', 'date': '2025-07-20 08:29:47', 'amount': '47', 'rate': '0.4653', 'total': '21.87', 'fee': '0.0218691', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262751177', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '1669642157', 'date': '2025-07-20 09:13:08', 'amount': '175', 'rate': '0.1468', 'total': '25.69', 'fee': '0.02569', 'result': '14.597970335675', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262740714', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262754256', 'exchange': 'binance', 'currency': 'LINK', 'pair': 'LINKUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '6940963213', 'date': '2025-07-20 10:12:21', 'amount': '2.25', 'rate': '19.44', 'total': '43.74', 'fee': '0.04374', 'result': '8.1201334816463', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262671460', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262754317', 'exchange': 'binance', 'currency': 'INJ', 'pair': 'INJUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '2572533888', 'date': '2025-07-20 10:13:28', 'amount': '2.9', 'rate': '14.84', 'total': '43.04', 'fee': '0.043036', 'result': '6.9935111751983', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262671527', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262759025', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1670516707', 'date': '2025-07-20 12:11:59', 'amount': '152', 'rate': '0.1472', 'total': '22.37', 'fee': '0.0223744', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262762727', 'exchange': 'binance', 'currency': 'LINK', 'pair': 'LINKUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '6941477792', 'date': '2025-07-20 13:46:37', 'amount': '1.14', 'rate': '19.4699999999999989', 'total': '22.2', 'fee': '0.0221958', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262762779', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1671281224', 'date': '2025-07-20 13:47:56', 'amount': '139', 'rate': '0.1603', 'total': '22.28', 'fee': '0.0222817', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262764106', 'exchange': 'binance', 'currency': 'VET', 'pair': 'VETUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '3409142424', 'date': '2025-07-20 14:10:56', 'amount': '1478.7', 'rate': '0.02846', 'total': '42.08', 'fee': '0.0420838', 'result': '4.1346505671423', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262678309', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262764110', 'exchange': 'binance', 'currency': 'SEI', 'pair': 'SEIUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '2053049556', 'date': '2025-07-20 14:10:58', 'amount': '116.2', 'rate': '0.362', 'total': '42.06', 'fee': '0.0420644', 'result': '4.0528887611382', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262680090', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262766237', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1672132738', 'date': '2025-07-20 14:53:38', 'amount': '130', 'rate': '0.1722', 'total': '22.39', 'fee': '0.022386', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262769383', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '1673262652', 'date': '2025-07-20 15:57:10', 'amount': '122', 'rate': '0.1835', 'total': '22.39', 'fee': '0.022387', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262769661', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '1673364286', 'date': '2025-07-20 16:01:27', 'amount': '139', 'rate': '0.196', 'total': '27.24', 'fee': '0.027244', 'result': '22.270742358079', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262762779', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262769660', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '1673363552', 'date': '2025-07-20 16:01:27', 'amount': '152', 'rate': '0.1955', 'total': '29.72', 'fee': '0.029716', 'result': '32.8125', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262759025', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262769756', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '1673364996', 'date': '2025-07-20 16:02:07', 'amount': '122', 'rate': '0.1955', 'total': '23.85', 'fee': '0.023851', 'result': '6.5395095367847', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262769383', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262770028', 'exchange': 'binance', 'currency': 'CFX', 'pair': 'CFXUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '1673505147', 'date': '2025-07-20 16:04:59', 'amount': '129', 'rate': '0.2052', 'total': '26.47', 'fee': '0.0264708', 'result': '19.163763066202', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262766237', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262783802', 'exchange': 'binance', 'currency': 'LINK', 'pair': 'LINKUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '6942646077', 'date': '2025-07-20 19:41:24', 'amount': '1.14', 'rate': '19.5', 'total': '22.23', 'fee': '0.02223', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262790857', 'exchange': 'binance', 'currency': 'SHIB', 'pair': 'SHIBUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '5249071286', 'date': '2025-07-20 22:30:03', 'amount': '1465798', 'rate': '0.00001535', 'total': '22.5', 'fee': '0.02250003', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262794460', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4148165979', 'date': '2025-07-21 00:20:25', 'amount': '11.62', 'rate': '10.499', 'total': '122', 'fee': '0.12199838', 'result': '0.88544571380886', 'trigger_strategy': 'manually-sold', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262795142', 'exchange': 'binance', 'currency': 'LTC', 'pair': 'LTCUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '6200933938', 'date': '2025-07-21 00:33:01', 'amount': '0.19', 'rate': '117.29', 'total': '22.29', 'fee': '0.0222851', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262798179', 'exchange': 'binance', 'currency': 'LTC', 'pair': 'LTCUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '6201525234', 'date': '2025-07-21 01:56:14', 'amount': '0.19', 'rate': '117.71', 'total': '22.36', 'fee': '0.0223649', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262798344', 'exchange': 'binance', 'currency': 'AVAX', 'pair': 'AVAXUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4777640792', 'date': '2025-07-21 01:58:18', 'amount': '0.88', 'rate': '25.19', 'total': '22.17', 'fee': '0.0221672', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262798611', 'exchange': 'binance', 'currency': 'SHIB', 'pair': 'SHIBUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '5250348561', 'date': '2025-07-21 02:03:20', 'amount': '1467710', 'rate': '0.00001532', 'total': '22.49', 'fee': '0.0224853172', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262799157', 'exchange': 'binance', 'currency': 'XLM', 'pair': 'XLMUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '3130828751', 'date': '2025-07-21 02:11:07', 'amount': '47', 'rate': '0.4831', 'total': '22.71', 'fee': '0.0227057', 'result': '3.8254889318719', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262747715', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262799871', 'exchange': 'binance', 'currency': 'FLOKI', 'pair': 'FLOKIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '8576714586', 'date': '2025-07-21 02:27:54', 'amount': '161811', 'rate': '0.00013905', 'total': '22.5', 'fee': '0.0224996805', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262801233', 'exchange': 'binance', 'currency': 'BONK', 'pair': 'BONKUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4404318347', 'date': '2025-07-21 03:02:45', 'amount': '3001009', 'rate': '0.00003324', 'total': '99.75', 'fee': '0.0997535724', 'result': '', 'trigger_strategy': 'dca', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262801680', 'exchange': 'binance', 'currency': 'SEI', 'pair': 'SEIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '2055538599', 'date': '2025-07-21 03:08:51', 'amount': '62.2', 'rate': '0.3612', 'total': '22.47', 'fee': '0.02246664', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262802356', 'exchange': 'binance', 'currency': 'INJ', 'pair': 'INJUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '2574240906', 'date': '2025-07-21 03:20:33', 'amount': '1.47', 'rate': '15.22', 'total': '22.37', 'fee': '0.0223734', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262804265', 'exchange': 'binance', 'currency': 'BONK', 'pair': 'BONKUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4404751260', 'date': '2025-07-21 03:57:59', 'amount': '658857', 'rate': '0.00003414', 'total': '22.49', 'fee': '0.0224934804', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262805958', 'exchange': 'binance', 'currency': 'VET', 'pair': 'VETUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '3410590725', 'date': '2025-07-21 04:49:07', 'amount': '778.4', 'rate': '0.02889', 'total': '22.49', 'fee': '0.022487976', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262806064', 'exchange': 'binance', 'currency': 'NEAR', 'pair': 'NEARUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4265541481', 'date': '2025-07-21 04:52:07', 'amount': '7.3', 'rate': '3.016', 'total': '22.02', 'fee': '0.0220168', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262806882', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '13006676988', 'date': '2025-07-21 05:14:12', 'amount': '0.228', 'rate': '185.25', 'total': '42.24', 'fee': '0.042237', 'result': '5.0467819676779', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262681691', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262808112', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '13007178359', 'date': '2025-07-21 05:53:20', 'amount': '0.118', 'rate': '188.07', 'total': '22.19', 'fee': '0.02219226', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262808643', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4150250254', 'date': '2025-07-21 06:04:05', 'amount': '2.12', 'rate': '10.572', 'total': '22.41', 'fee': '0.02241264', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262809461', 'exchange': 'binance', 'currency': 'SHIB', 'pair': 'SHIBUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '5251009137', 'date': '2025-07-21 06:18:55', 'amount': '1439539', 'rate': '0.00001563', 'total': '22.5', 'fee': '0.0225000102', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262819895', 'exchange': 'binance', 'currency': 'BONK', 'pair': 'BONKUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4408125492', 'date': '2025-07-21 09:15:42', 'amount': '5336174', 'rate': '0.00003543', 'total': '189.06', 'fee': '0.18906065', 'result': '4.6286129343442', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262824718', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '13011981744', 'date': '2025-07-21 11:24:36', 'amount': '0.116', 'rate': '192.7199999999999989', 'total': '22.36', 'fee': '0.02235552', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262826519', 'exchange': 'binance', 'currency': 'AVAX', 'pair': 'AVAXUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4778851091', 'date': '2025-07-21 11:47:41', 'amount': '0.89', 'rate': '26.09', 'total': '23.22', 'fee': '0.0232201', 'result': '5.2016129032258', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262744863', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262830974', 'exchange': 'binance', 'currency': 'BONK', 'pair': 'BONKUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4411042670', 'date': '2025-07-21 13:28:08', 'amount': '652861', 'rate': '0.00003614', 'total': '23.59', 'fee': '0.0235944', 'result': '5.8582308142941', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262804265', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262832218', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4153225478', 'date': '2025-07-21 13:53:57', 'amount': '2.12', 'rate': '11.4600000000000009', 'total': '24.3', 'fee': '0.0242952', 'result': '8.3995459704881', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262808643', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262834591', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4153909761', 'date': '2025-07-21 14:16:32', 'amount': '1.96', 'rate': '11.427', 'total': '22.4', 'fee': '0.02239692', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262840588', 'exchange': 'binance', 'currency': 'TAO', 'pair': 'TAOUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '1602703201', 'date': '2025-07-21 15:35:07', 'amount': '0.1915', 'rate': '438.9', 'total': '84.05', 'fee': '0.08404935', 'result': '3.9740473704815', 'trigger_strategy': 'trailing-stop-loss. Config pool: TAO', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262842249', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '13017911787', 'date': '2025-07-21 16:02:38', 'amount': '0.118', 'rate': '196.7', 'total': '23.21', 'fee': '0.0232106', 'result': '4.5887169670867', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262808112', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262846427', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '13020019784', 'date': '2025-07-21 17:23:10', 'amount': '0.114', 'rate': '196.3499999999999943', 'total': '22.38', 'fee': '0.0223839', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262848301', 'exchange': 'binance', 'currency': 'UNI', 'pair': 'UNIUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4156858668', 'date': '2025-07-21 18:20:37', 'amount': '2.06', 'rate': '10.898', 'total': '22.45', 'fee': '0.02244988', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262855752', 'exchange': 'binance', 'currency': 'FLOKI', 'pair': 'FLOKIUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '8601292729', 'date': '2025-07-21 21:51:59', 'amount': '161649', 'rate': '0.00014704', 'total': '23.77', 'fee': '0.02376884', 'result': '5.7461344839986', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262799871', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262856323', 'exchange': 'binance', 'currency': 'BONK', 'pair': 'BONKUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4418124423', 'date': '2025-07-21 22:15:09', 'amount': '644326', 'rate': '0.00003491', 'total': '22.49', 'fee': '0.0224935603', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262867098', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '13031862797', 'date': '2025-07-22 02:42:51', 'amount': '0.116', 'rate': '202.1599999999999966', 'total': '23.45', 'fee': '0.02345056', 'result': '4.898298048983', 'trigger_strategy': 'trailing-stop-loss', 'buy_id': '262824718', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262867844', 'exchange': 'binance', 'currency': 'AVAX', 'pair': 'AVAXUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '4781681545', 'date': '2025-07-22 02:55:40', 'amount': '0.88', 'rate': '25.870000000000001', 'total': '22.77', 'fee': '0.0227656', 'result': '2.6994839221913', 'trigger_strategy': 'manually-sold', 'buy_id': '262798344', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262867939', 'exchange': 'binance', 'currency': 'SOL', 'pair': 'SOLUSDT', 'type': 'sell', 'order_cur': 'usdt', 'order_id': '13032477205', 'date': '2025-07-22 02:58:59', 'amount': '0.114', 'rate': '201.5699999999999932', 'total': '22.98', 'fee': '0.02297898', 'result': '2.6585179526356', 'trigger_strategy': 'manually-sold', 'buy_id': '262846427', 'is_short': '0', 'result_short': '0.00'}
+
+--- Full Trade Data ---
+{'id': '262869999', 'exchange': 'binance', 'currency': 'PEPE', 'pair': 'PEPEUSDT', 'type': 'buy', 'order_cur': 'usdt', 'order_id': '4713680778', 'date': '2025-07-22 04:10:23', 'amount': '1586741', 'rate': '0.00001418', 'total': '22.5', 'fee': '0.0224999732', 'result': '', 'trigger_strategy': 'strategy', 'buy_id': '0', 'is_short': '0', 'result_short': '0.00'}
